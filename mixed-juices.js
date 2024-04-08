@@ -73,17 +73,3 @@ function timeToMixJuice(name) {
 
     return orders
   }
-
-  const limes = [
-    'small',
-    'large',
-    'large',
-    'medium',
-    'small',
-    'large',
-    'large',
-  ];
-
-console.log(limesToCut(80, limes)) 
-
-  
