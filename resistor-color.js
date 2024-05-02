@@ -20,4 +20,4 @@ const colorCode2 = (arrayColor) => {
 
 
 
-console.log(colorCode(["black", "brown", "red", "orange", "yellow", "green", "blue", "violet", "grey", "white"]));
+console.log(colorCode('black'));
